@@ -21,3 +21,5 @@ At the end of the game (after both the players either die or reach other â€˜ENDâ
 **NOTE - This project is licensed under MIT License 2020. If you find any bugs in the game, please visit [issues column](https://github.com/harshita130602/river-crossing-game/issues) to report the issue.** 
 
 ## Enjoy the game!
+
+Made with :heart: by Harshita Upadhyay
